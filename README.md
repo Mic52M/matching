@@ -1,4 +1,4 @@
-# README for C Program: File String Matcher
+#  File String Matcher
 
 ## Overview
 This C program reads a file provided by the user, scans each line, and compares the input string with the content before the comment character (`#`). If a match is found, it prints the content after the comment character. The program handles files with a specific format, where each line contains a string followed by a comment starting with `#`.
